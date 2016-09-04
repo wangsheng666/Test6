@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test6</string>
+    <string name="action_settings">action_settings</string>
+    <string name="action_another">action_another</string>
+    <string name="action_3">手机</string>
+    <string name="action_4">电视</string>
+    <string name="action_5">冰箱</string>
+    <string name="action_6">洗衣机</string>
+
+</resources>
